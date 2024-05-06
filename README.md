@@ -5,7 +5,7 @@ iNotebook is a web application for managing notes. It allows users to create, ed
 ## Deployment
 
 The project is deployed and can be accessed 
- sandhyainotebook.netlify.app
+ https://sandhyainotebook.netlify.app/login
 
 
 ## Installation.
